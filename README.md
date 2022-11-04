@@ -14,6 +14,8 @@
 
 **CVML-22-1004 :** Hate Speech and Offensive Language Detection
 
+**CVML-22-1005 :** 
+
 **CVML-22-1003 :** Video Stabilization
 
 
